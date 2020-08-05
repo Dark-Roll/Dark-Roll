@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Next.js and GraphQL
+
 <!--
 **Dark-Roll/Dark-Roll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
